@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Script : MonoBehaviour
 {
+    [SerializeField] float paku;
+
     // Start is called before the first frame update
     void Start()
     {
